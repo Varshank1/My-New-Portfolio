@@ -153,7 +153,6 @@ metadata:
 
 test_plan:
   current_focus:
-    - "Portfolio API endpoints"
     - "Modern portfolio UI recreation"
   stuck_tasks: []
   test_all: false
